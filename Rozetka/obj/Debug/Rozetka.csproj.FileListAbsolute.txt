@@ -1,0 +1,12 @@
+D:\НАТАША\Шаг\ДЗ\Projects\WCF\Rozetka\Rozetka\bin\Debug\Rozetka.exe.config
+D:\НАТАША\Шаг\ДЗ\Projects\WCF\Rozetka\Rozetka\bin\Debug\Rozetka.exe
+D:\НАТАША\Шаг\ДЗ\Projects\WCF\Rozetka\Rozetka\bin\Debug\Rozetka.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\WCF\Rozetka\Rozetka\obj\Debug\Rozetka.csprojResolveAssemblyReference.cache
+D:\НАТАША\Шаг\ДЗ\Projects\WCF\Rozetka\Rozetka\obj\Debug\Rozetka.Form1.resources
+D:\НАТАША\Шаг\ДЗ\Projects\WCF\Rozetka\Rozetka\obj\Debug\Rozetka.Properties.Resources.resources
+D:\НАТАША\Шаг\ДЗ\Projects\WCF\Rozetka\Rozetka\obj\Debug\Rozetka.csproj.GenerateResource.Cache
+D:\НАТАША\Шаг\ДЗ\Projects\WCF\Rozetka\Rozetka\obj\Debug\Rozetka.exe
+D:\НАТАША\Шаг\ДЗ\Projects\WCF\Rozetka\Rozetka\obj\Debug\Rozetka.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\WCF\Rozetka\Rozetka\bin\Debug\HtmlAgilityPack.dll
+D:\НАТАША\Шаг\ДЗ\Projects\WCF\Rozetka\Rozetka\bin\Debug\HtmlAgilityPack.pdb
+D:\НАТАША\Шаг\ДЗ\Projects\WCF\Rozetka\Rozetka\bin\Debug\HtmlAgilityPack.xml
